@@ -70,6 +70,7 @@ Desarrollar una plataforma web inspirada en modelos como OnlyFans, Zoom y Uber, 
 - Implementar sistema de login/registro
 - Definir roles: usuario y famoso
 - Configurar base de datos para cuentas
+- verificacion de usuarios
 
 ---
 
@@ -88,6 +89,7 @@ Desarrollar una plataforma web inspirada en modelos como OnlyFans, Zoom y Uber, 
 - Configurar Tailwind CSS
 - Diseñar estructura básica de UI (layout general)
 - Crear formulario de registro con validación de ID y cámara
+  
 
 ---
 
